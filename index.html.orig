@@ -1,0 +1,13 @@
+<html>
+ <head>
+  <meta charset="utf-8">
+  <title>Tag BUTTON</title>
+ </head>
+ <body>
+<<<<<<< HEAD
+  <button>Button</button>
+=======
+  <button>Button:</button>
+>>>>>>> bugFix
+ </body>
+</html>
